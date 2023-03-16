@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="#-projeto">Projeto</a>   | 
-  <a href="#rocket-tecnologias">Tecnologias</a>   |   
-  <a href="#-layout">Layout</a>   
+  <a href="#tecnologias">Tecnologias</a>   |   
+  <a href="#-page">Page</a>   
   </p>
 
 <br>
@@ -30,9 +30,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   
   ## 
 
-## 🔖 Layout
+## 🔖 Page
 
-Você pode visualizar o layout do projeto através [desse link](<https://www.figma.com/file/Byw4X5etg8VCmezueyhzkC/Ecoleta-(Starter)?node-id=136%3A546>). 
+* Você pode visualizar o resultado final do projeto através [desse link](<https://www.figma.com/file/Byw4X5etg8VCmezueyhzkC/Ecoleta-(Starter)?node-id=136%3A546>). 
 
 ---
 
