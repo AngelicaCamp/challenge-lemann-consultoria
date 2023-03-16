@@ -8,29 +8,24 @@
   <a href="#-layout">Layout</a>   
   </p>
 
-
-
-
 <br>
 
 <p align="center">
   <img alt="Lemann Consultoria" src=".github/ecoleta.png" width="100%">
 </p>
 
-
-
 ## 💻 Projeto
 
 Site institucional no formato One Page, desenvolvido com foco no aprendizado em front-end.
-
-
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [HTML]()
-- [CSS]()
+- [HTML]
+
+- [CSS]
+
 - [SASS](https://sass-lang.com/)
   
   ## 
@@ -38,8 +33,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [desse link](<https://www.figma.com/file/Byw4X5etg8VCmezueyhzkC/Ecoleta-(Starter)?node-id=136%3A546>). 
-
-
 
 ---
 
