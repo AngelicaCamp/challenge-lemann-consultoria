@@ -22,11 +22,11 @@ Site institucional no formato One Page, desenvolvido com foco no aprendizado em 
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [HTML]
+- **HTML**
 
-- [CSS]
+- **CSS**
 
-- [SASS](https://sass-lang.com/)
+- **[SASS](https://sass-lang.com/)**
   
   ## 
 
