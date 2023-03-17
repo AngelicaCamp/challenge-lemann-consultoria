@@ -1,6 +1,4 @@
-<h1 align="center">
-    <img alt="Lemann Consultoria" title="Lemann" src=".github/ecoleta.svg" width="220px" />
-</h1>
+<h1 align="center">Lemann Consultoria</h1>
 
 <p align="center">
   <a href="#-projeto">Projeto</a>   | 
@@ -11,12 +9,12 @@
 <br>
 
 <p align="center">
-  <img alt="Lemann Consultoria" src=".github/ecoleta.png" width="100%">
+  <img alt="Lemann Consultoria" src=".github/lemann.PNG" width="100%">
 </p>
 
 ## 💻 Projeto
 
-Site institucional no formato One Page, desenvolvido com foco no aprendizado em front-end.
+Site institucional, desenvolvido com foco no aprendizado em front-end.
 
 ## 🚀 Tecnologias
 
