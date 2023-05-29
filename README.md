@@ -16,7 +16,7 @@
 
 ## 💻 Projeto
 
-Site institucional, desenvolvido com foco no aprendizado em front-end.
+Webpage institucional, desenvolvido com foco no aprendizado em front-end.
 
 ## 🚀 Tecnologias
 
